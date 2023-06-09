@@ -1,0 +1,34 @@
+
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ò¤Æ©üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+T
+java:S1854"9Remove this useless assignment to local variable "price".(âğ‡¦ÿÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "price".(—¾—•
+T
+java:S1854"9Remove this useless assignment to local variable "price".(òèÚ÷øÿÿÿÿ
+[
+java:S1854*"9Remove this useless assignment to local variable "price".(òèÚ÷øÿÿÿÿ8äµ‰Á„1
+[
+java:S1854."9Remove this useless assignment to local variable "price".(¢¶š¼şÿÿÿÿ8åµ‰Á„1
+[
+java:S18542"9Remove this useless assignment to local variable "price".(ûÿüùıÿÿÿÿ8åµ‰Á„1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿š 
+<	java:S131""Add a default case to this switch.(Ò¤Æ©üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü³¡³
+@
+java:S1481"*Remove this unused "price" local variable.(Ë¨ğâ
+f	java:S128%"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+7	java:S131""Add a default case to this switch.(¥–ßæ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™¢şä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û÷ƒıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‚¨üûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(„ÍµŠ
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÙÒÉàûÿÿÿÿ8÷µ‰Á„1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(˜ô˜8øµ‰Á„1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ŞÏï…8ùµ‰Á„1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(„ÍµŠ8úµ‰Á„1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(í’¡³øÿÿÿÿ8“Á„1

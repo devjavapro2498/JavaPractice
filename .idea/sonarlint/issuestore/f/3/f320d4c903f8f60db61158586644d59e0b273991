@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+c	java:S116"NRename this field "Mul" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÿû“
+c	java:S116"NRename this field "Div" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÿû“
+T
+java:S1659">Declare "y" and all following declarations on a separate line.(‘ÿû“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÊİ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™ñ„øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶à‡¡ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½²ƒè
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ÄÈÂıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–ŸŒ¾

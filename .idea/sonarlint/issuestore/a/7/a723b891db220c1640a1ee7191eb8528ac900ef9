@@ -1,0 +1,9 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¦‰
+0
+java:S1220""Move this file to a named package.
+o	java:S116"URename this field "CartStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‹öüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¿Ú”şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ø¢´³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İÀ˜«
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Çíçüÿÿÿÿ

@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+j	java:S116"PRename this field "Input" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äğÎ±ùÿÿÿÿ
+k	java:S116"QRename this field "Output" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äğÎ±ùÿÿÿÿ
+?
+java:S1659"$Declare "Output" on a separate line.(äğÎ±ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õôÌ‘ûÿÿÿÿ
+A
+java:S2201"+The return value of "replace" must be used.(ğäã¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±²Äøúÿÿÿÿ

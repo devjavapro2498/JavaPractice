@@ -1,0 +1,23 @@
+
+0
+java:S1220""Move this file to a named package.
+f	java:S116"QRename this field "CHOOSE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ€à
+i	java:S116"TRename this field "Tdiscount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì£¡£
+[
+java:S1659"EDeclare "discount" and all following declarations on a separate line.(Ì£¡£
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(š¡Áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥•«ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùªËîıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãŸÏùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Øî±¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ı»§úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šŠ†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÍ§›úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÇæŸÉ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ı»§úÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ËÌ†‰úÿÿÿÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(èË‹
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¡½Õ¤ûÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(±®É
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¾‡ñá
